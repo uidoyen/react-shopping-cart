@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Under the hood
-React
-Redux
-ES6
-SASS
-Redux-Persist to store cart data on page refresh using localStorage.
+* React
+* Redux
+* ES6
+* SASS
+* Redux-Persist to store cart data on page refresh using localStorage.
 
 ### `npm start`
 
